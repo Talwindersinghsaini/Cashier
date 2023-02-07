@@ -1,12 +1,3 @@
-//************************************************************************
-// Name : Talwinder singh saini
-// course : CS 155 computer science
-// Semester : 1
-// Assignment A5 : Selection
-// Due Date : 9/20/2021
-//Description : Write a program that will tell a cashier how much total change should be returned to the customer. The input to obtain from the cashier will be the total purchase price and the amount of cash given. If enough cash is given, your program will inform the cashier how much change to dispense (a single amount; for now, it's up to them to break that into individual coin and dollar amounts on their own). If not enough cash is given, your program will inform the cashier not enough cash was given to complete the purchase.
-//************************************************************************
-
 #include<iostream>
 #include<iomanip>
 
